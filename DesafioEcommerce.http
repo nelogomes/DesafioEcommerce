@@ -1,0 +1,6 @@
+@DesafioEcommerce_HostAddress = http://localhost:5077
+
+GET {{DesafioEcommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
